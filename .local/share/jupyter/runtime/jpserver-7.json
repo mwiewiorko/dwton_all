@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/mateusz.wiewiorko_7723/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "9adf4f7813134bafad2aaa0d88564dfd",
+  "url": "http://jupyter-mateusz-2ewiewiorko-5f7723:8888/user/mateusz.wiewiorko_7723/",
+  "version": "2.14.2"
+}

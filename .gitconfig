@@ -1,0 +1,5 @@
+[user]
+	name = Twoje Imię
+	email = mateusz.wiewiorko@gmail.com
+[safe]
+	directory = /home/jovyan

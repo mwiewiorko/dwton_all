@@ -1,0 +1,13 @@
+{
+  "shell_port": 35839,
+  "iopub_port": 57355,
+  "stdin_port": 48181,
+  "control_port": 59961,
+  "hb_port": 33745,
+  "ip": "127.0.0.1",
+  "key": "bd829bd1-7e62fa5ee6354d577a0378ed",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/dwthon-rag/notebooks/day1.ipynb"
+}
